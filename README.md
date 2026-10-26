@@ -1,0 +1,16 @@
+# Tamaño Muestral
+
+Aplicación web: **https://herramientas-calidad.github.io/tamano-muestral/** (versión 2026.22).
+
+Aplicación web (PWA) estática, sin dependencias, que funciona sin conexión y se puede instalar en el móvil, con calculadoras de tamaño muestral para auditorías y estudios en calidad asistencial. En español, con enfoque docente: guía "¿Qué calculadora necesito?", ayudas ⓘ, ejemplos, desarrollo paso a paso e informe imprimible.
+
+Calculadoras: una proporción, una media, dos proporciones, dos medias, LQAS (binomial / hipergeométrica con curva característica operativa y semáforo) reparto de la muestra por estratos, muestreo por conglomerados (efecto de diseño), indicador compuesto de porcentaje simple y concordancia entre auditores (kappa). Tras la auditoría, «Ya tengo los resultados» aplica la regla LQAS o calcula el porcentaje con su intervalo de confianza. Enlaces compartibles con los datos ya puestos y glosario con buscador. Cada una con «Idea clave» y «Explicado fácil» para quien no sabe estadística.
+
+Forma parte de un conjunto de herramientas de calidad y seguridad del paciente. Si quieres conocer las demás, pide información a sus autores.
+
+Aplicación desarrollada por:
+
+- **Carlos J. Galán Doval** · Médico de Familia · Técnico en Calidad y Seguridad del Paciente
+- **Rafael J. Romero de Castilla Gil** · Médico de Familia · Responsable del Área de Calidad y Seguridad del Paciente
+
+Área de Gestión Sanitaria Sur de Córdoba · Andalucía. De libre uso con fines docentes y divulgativos. No sustituye el criterio profesional.
