@@ -1,6 +1,6 @@
 # Tamaño Muestral
 
-Aplicación web: **https://herramientas-calidad.github.io/tamano-muestral/** (versión 2026.22).
+Aplicación web: **https://herramientas-calidad.github.io/tamano-muestral/** (versión 2026.23).
 
 Aplicación web (PWA) estática, sin dependencias, que funciona sin conexión y se puede instalar en el móvil, con calculadoras de tamaño muestral para auditorías y estudios en calidad asistencial. En español, con enfoque docente: guía "¿Qué calculadora necesito?", ayudas ⓘ, ejemplos, desarrollo paso a paso e informe imprimible.
 
